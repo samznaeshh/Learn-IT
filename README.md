@@ -1,3 +1,3 @@
 # Learn-IT - Артемьев Сергей
 
-# https://samznaeshh.github.learn-it
+# https://samznaeshh.github.io/learn-it/
